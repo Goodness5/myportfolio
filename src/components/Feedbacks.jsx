@@ -49,10 +49,20 @@ const Feedbacks = () => {
       <div
         className={`bg-tertiary rounded-2xl ${styles.padding} min-h-[300px]`}
       >
-        <motion.div variants={textVariant()}>
+        {/* <motion.div variants={textVariant()}>
           <p className={styles.sectionSubText}>What others say</p>
           <h2 className={styles.sectionHeadText}>Testimonials.</h2>
-        </motion.div>
+        </motion.div> */}
+      <div>
+  <iframe
+    title="Github Account"
+    src="https://github-readme-stats.vercel.app/api?username=goodness5&show_icons=true&theme=radical"
+    style={{ width: '100%', height: '200px' }}
+    sandbox="allow-same-origin allow-scripts"
+    
+  />
+</div>
+
       </div>
       <div className={`-mt-20 pb-14 ${styles.paddingX} flex flex-wrap gap-7`}>
         {testimonials.map((testimonial, index) => (

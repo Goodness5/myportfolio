@@ -25,13 +25,17 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
+import python from "./python.png"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
+import solidity from "./solidity.png"
 import tripguide from "./tripguide.png";
+import devxspace from "./devxspace.png";
+import lunchpad from "./lunchpad.png"
 
 export {
   logo,
+  lunchpad,
   backend,
   creator,
   mobile,
@@ -39,7 +43,10 @@ export {
   web,
   github,
   menu,
+  devxspace,
   close,
+  solidity,
+  python,
   css,
   docker,
   figma,

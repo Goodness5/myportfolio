@@ -1,29 +1,19 @@
 import {
-  mobile,
   backend,
-  creator,
   web,
   javascript,
   typescript,
   html,
   css,
   reactjs,
-  redux,
+  lunchpad,
+  devxspace,
   tailwind,
   nodejs,
-  mongodb,
+  solidity,
   git,
-  figma,
-  docker,
-  meta,
+  python,
   moviebuddy,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
-  threejs,
 } from "../assets";
 
 export const navLinks = [
@@ -47,16 +37,12 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
-    icon: mobile,
-  },
-  {
     title: "Backend Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
-    icon: creator,
+    title: "Blockchain developer",
+    icon: solidity,
   },
 ];
 
@@ -74,16 +60,16 @@ const technologies = [
     icon: javascript,
   },
   {
+    name: "solidity",
+    icon: solidity,
+  },
+  {
     name: "TypeScript",
     icon: typescript,
   },
   {
     name: "React JS",
     icon: reactjs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
   },
   {
     name: "Tailwind CSS",
@@ -94,59 +80,47 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
+    name: "python",
+    icon: python,
   },
 ];
 
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
     company_name: "freelance",
-    icon: meta,
-    iconBg: "#E6DEDD",
+    icon: reactjs,
+    iconBg: "#383E56",
+    date: "March 2022 - present",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
+    title: "Blockchain Developer",
+    company_name: "Web3bridge",
+    icon: solidity,
+    iconBg: "#383E56",
+    date: "Jan 2023 - present",
+    points: [
+      "Creation of various smart contracts on the ethereum blockchain and other EVM compatible chains",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
+    title: "Full stack web Developer",
+    company_name: "freelance",
+    icon: python,
+    iconBg: "#000000",
     date: "Jan 2021 - Present",
     points: [
       "Developing and maintaining web applications using Next.js, python and other related technologies.",
@@ -207,29 +181,29 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: lunchpad,
     source_code_link: "https://github.com/Goodness5/launchpad",
   },
   {
-    name: "Trip Guide",
+    name: "devxspace",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "An advanced freelancing platforms that makes use of web3 Escrow agents as a means of transaction between buyers and sellers, with an highly decentralized mechanism.",
     tags: [
       {
-        name: "nextjs",
+        name: "solidity",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "ethereum",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "ethers",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: devxspace,
+    source_code_link: "https://github.com/devxspace-org",
   },
 ];
 
