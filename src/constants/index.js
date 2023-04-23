@@ -16,6 +16,7 @@ import {
   figma,
   docker,
   meta,
+  moviebuddy,
   starbucks,
   tesla,
   shopify,
@@ -181,7 +182,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: moviebuddy,
     source_code_link: "https://github.com/moviebuddy",
   },
   {
