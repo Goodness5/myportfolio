@@ -45,29 +45,25 @@ const FeedbackCard = ({
 
 const Feedbacks = () => {
   return (
-    <div className={`mt-12 bg-black-100 rounded-[20px]`}>
+    <div className={`w-full flex justify-center align-middle`}>
       <div
-        className={`bg-tertiary rounded-2xl ${styles.padding} min-h-[300px]`}
+        className={`bg-tertiary flex justify-center p-4 rounded-2xl m-0 w-3/6`}
       >
-        {/* <motion.div variants={textVariant()}>
-          <p className={styles.sectionSubText}>What others say</p>
-          <h2 className={styles.sectionHeadText}>Testimonials.</h2>
-        </motion.div> */}
-      <div>
+       
   <iframe
     title="Github Account"
     src="https://github-readme-stats.vercel.app/api?username=goodness5&show_icons=true&theme=radical"
-    style={{ width: '100%', height: '200px' }}
+    style={{height: '250px', width: '100%'}}
     sandbox="allow-same-origin allow-scripts"
     
   />
-</div>
 
-      </div>
+      {/* </div>
       <div className={`-mt-20 pb-14 ${styles.paddingX} flex flex-wrap gap-7`}>
         {testimonials.map((testimonial, index) => (
           <FeedbackCard key={testimonial.name} index={index} {...testimonial} />
         ))}
+      </div> */}
       </div>
     </div>
   );
