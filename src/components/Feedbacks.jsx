@@ -45,27 +45,17 @@ const FeedbackCard = ({
 
 const Feedbacks = () => {
   return (
-    <div className={`w-full flex justify-center align-middle`}>
-      <div
-        className={`bg-tertiary flex justify-center p-4 rounded-2xl m-0 w-3/6`}
-      >
-       
-  <iframe
-    title="Github Account"
-    src="https://github-readme-stats.vercel.app/api?username=goodness5&show_icons=true&theme=radical"
-    style={{height: '250px', width: '100%'}}
-    sandbox="allow-same-origin allow-scripts"
-    
-  />
+<div className="w-full flex items-center justify-center">
+  <div className="bg-tertiary flex justify-center items-center p-4 rounded-2xl w-full">
+    <iframe
+      title="Github Account"
+      src="https://github-readme-stats.vercel.app/api?username=goodness5&show_icons=true&theme=radical&width=100%&height=100"
+      sandbox="allow-same-origin allow-scripts"
+      style={{ width: "100%", borderRadius: "3px", opacity: "0.8", backgroundColor: "black", padding: "0%"}}
+    />
+  </div>
+</div>
 
-      {/* </div>
-      <div className={`-mt-20 pb-14 ${styles.paddingX} flex flex-wrap gap-7`}>
-        {testimonials.map((testimonial, index) => (
-          <FeedbackCard key={testimonial.name} index={index} {...testimonial} />
-        ))}
-      </div> */}
-      </div>
-    </div>
   );
 };
 
