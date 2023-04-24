@@ -12,6 +12,7 @@ import {
   nodejs,
   solidity,
   git,
+  votingdapp,
   python,
   moviebuddy,
 } from "../assets";
@@ -183,6 +184,73 @@ const projects = [
     ],
     image: lunchpad,
     source_code_link: "https://github.com/Goodness5/launchpad",
+  },
+  {
+    name: "devxspace",
+    description:
+      "An advanced freelancing platforms that makes use of web3 Escrow agents as a means of transaction between buyers and sellers, with an highly decentralized mechanism.",
+    tags: [
+      {
+        name: "solidity",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "ethereum",
+        color: "green-text-gradient",
+      },
+      {
+        name: "ethers",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: devxspace,
+    source_code_link: "https://github.com/devxspace-org",
+  },
+  {
+    name: "blockchain voting app",
+    description:
+      "A secured smart contract that allows people create elections and vote for candidates of their choice during the election process.",
+    tags: [
+      {
+        name: "solidity",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "ethereum",
+        color: "green-text-gradient",
+      },
+      {
+        name: "ethers",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: votingdapp,
+    source_code_link: "https://github.com/voting_dapp",
+  },
+  {
+    name: "Termshub",
+    description:
+      "A platform that automatically generates terms andd conditions for users based on their input and the laws guarding organixations in their society",
+    tags: [
+      {
+        name: "python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "django",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Javascript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Zuri",
+        color: "green-text-gradient",
+      },
+    ],
+    image: devxspace,
+    source_code_link: "https://github.com/Goodness5/T-C-PP_gen_pjt73",
   },
   {
     name: "devxspace",
