@@ -32,11 +32,15 @@ import solidity from "./solidity.png"
 import tripguide from "./tripguide.png";
 import devxspace from "./devxspace.png";
 import lunchpad from "./lunchpad.png"
+import termshub from './termshub.png';
+import staking from './staking.png';
 
 export {
   logo,
   lunchpad,
+  staking,
   backend,
+  termshub,
   creator,
   mobile,
   moviebuddy,

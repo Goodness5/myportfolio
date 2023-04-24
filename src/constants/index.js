@@ -5,6 +5,7 @@ import {
   typescript,
   html,
   css,
+  termshub,
   reactjs,
   lunchpad,
   devxspace,
@@ -12,6 +13,7 @@ import {
   nodejs,
   solidity,
   git,
+  staking,
   votingdapp,
   python,
   moviebuddy,
@@ -249,13 +251,13 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: devxspace,
+    image: termshub,
     source_code_link: "https://github.com/Goodness5/T-C-PP_gen_pjt73",
   },
   {
-    name: "devxspace",
+    name: "NFT staking",
     description:
-      "An advanced freelancing platforms that makes use of web3 Escrow agents as a means of transaction between buyers and sellers, with an highly decentralized mechanism.",
+      "A platform that provides opportunity for it's users to stake NFTs for a period of time and get rewarded after the set period.",
     tags: [
       {
         name: "solidity",
@@ -266,11 +268,11 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "ethers",
+        name: "NFT",
         color: "pink-text-gradient",
       },
     ],
-    image: devxspace,
+    image: staking,
     source_code_link: "https://github.com/devxspace-org",
   },
 ];
