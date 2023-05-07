@@ -47,11 +47,16 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in <span className="text-[20px] font-extrabold"> TypeScript, Solidity,
-        JavaScript, python and node.js. and expertise in frameworks like React, Next.js, and
-        Tailwind css.</span> I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+I'm a skilled software developer with a passion for blockchain technology.
+ I specialize in TypeScript, Solidity, JavaScript, Python, and Node.js,
+  and have extensive experience working with frameworks like React, Next.js, and Tailwind CSS.
+  My expertise lies in developing scalable and user-friendly solutions that solve real-world problems.
+<p>
+I'm confident in my ability to bring your ideas to life and collaborate closely with clients to ensure their needs are met.
+ Whether it's for small businesses, B2B, or startups,
+ I have the skills and experience to provide efficient and effective solutions.
+ Let's work together to create something amazing.
+ </p>
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (

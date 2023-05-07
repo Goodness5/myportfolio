@@ -160,7 +160,7 @@ const projects = [
       },
     ],
     image: moviebuddy,
-    source_code_link: "https://github.com/moviebuddy",
+    source_code_link: "https://github.com/goodness5/moviebuddy",
   },
   {
     name: "Token LaunchPad",
@@ -227,7 +227,7 @@ const projects = [
       },
     ],
     image: votingdapp,
-    source_code_link: "https://github.com/voting_dapp",
+    source_code_link: "https://github.com/goodness5/voting_dapp",
   },
   {
     name: "Termshub",
@@ -273,7 +273,7 @@ const projects = [
       },
     ],
     image: staking,
-    source_code_link: "https://github.com/devxspace-org",
+    source_code_link: "https://github.com/goodness5/devxspace-org",
   },
 ];
 
