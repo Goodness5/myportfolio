@@ -9,6 +9,7 @@ import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
 import Footer from "./footer";
+import Repositories from "./Repositories";
 
 
 export {
@@ -20,6 +21,7 @@ export {
   Footer,
   Works,
   Feedbacks,
+  Repositories,
   Contact,
   CanvasLoader,  
   StarsCanvas

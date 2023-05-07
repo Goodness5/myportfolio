@@ -3,7 +3,7 @@ import { projects } from "../constants";
 import { github } from "../assets";
 import { SectionWrapper } from "../hoc";
 import { styles } from "../styles";
-const ProjectCard = ({ name, description, tags, image, source_code_link }) => {
+export const ProjectCard = ({ name, description, tags, image, source_code_link }) => {
   return (
     <div className='w-full md:w-1/2 mb-8 px-4'>
       <div className='border-2 border-gray-300 rounded-md transition duration-300 ease-in-out transform hover:-translate-y-1 hover:shadow-lg'>
