@@ -20,7 +20,7 @@ const ProjectCard = ({ name, description, tags, image, source_code_link }) => {
               {tags.map((tag) => (
                 <p
                   key={`${name}-${tag.name}`}
-                  className='inline-block bg-gray-200 rounded-md text-gray-800 text-sm font-medium mr-2 mb-2 px-2 py-1'
+                  className='inline-block bg-[#090944] rounded-md text-[#ff0000] text-sm font-medium mr-2 mb-2 px-2 py-1'
                 >
                   #{tag.name}
                 </p>
@@ -29,12 +29,12 @@ const ProjectCard = ({ name, description, tags, image, source_code_link }) => {
           </div>
           <div className='mt-4'>
             <a
-              className='github-link flex items-center justify-center h-8 w-8 rounded-full bg-gray-200 hover:bg-gray-300'
+              className='github-link flex items-center justify-center h-8 w-10 rounded-full  hover:bg-gray-300'
               href={source_code_link}
               target='_blank'
               rel='noopener noreferrer'
             >
-              <img src={github} alt='source code' className='w-4' />
+              <img src={github} alt='source code' className='w-full' />
             </a>
           </div>
         </div>

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-
+import { FaTwitter, FaLinkedin, FaEnvelope, FaWhatsapp } from 'react-icons/fa';
 import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { logo, menu, close } from "../assets";
@@ -90,6 +90,40 @@ const Navbar = () => {
                   <a href={`#${nav.id}`}>{nav.title}</a>
                 </li>
               ))}
+                {/* Twitter icon */}
+          <li className='text-white hover:text-[#7375f8] text-[18px] font-extrabold cursor-pointer'>
+            <a href='https://twitter.com/goodnesskolapo' target='_blank' rel='noopener noreferrer'>
+              <FaTwitter/>
+              
+            </a>
+          </li>
+
+          {/* LinkedIn icon */}
+          <li className='text-white hover:text-[#7375f8] text-[18px] font-extrabold cursor-pointer'>
+            <a href='https://www.linkedin.com/in/goodness-temilorun' target='_blank' rel='noopener noreferrer'>
+              <FaLinkedin  />
+            </a>
+          </li>
+          
+          <li>
+            <a
+              href='mailto:goodnesskolapo@gmail.com'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              <FaEnvelope size={24} className='text-white hover:text-[#7375f8]' />
+            </a>
+          </li>
+          <li>
+            <a
+              href='https://wa.me/2347080738071'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              <FaWhatsapp size={24} className='text-white hover:text-[#7375f8]' />
+            </a>
+          </li>
+
             </ul>
           </div>
         </div>

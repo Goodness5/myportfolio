@@ -1,4 +1,4 @@
-import { BallCanvas, StarsCanvas } from './canvas';
+import { StarsCanvas } from './canvas';
 import Hero from "./Hero";
 import Navbar from "./Navbar";
 import About from "./About";
@@ -8,6 +8,7 @@ import Works from "./Works";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
+import Footer from "./footer";
 
 
 export {
@@ -16,10 +17,10 @@ export {
   About,
   Tech,
   Experience,
+  Footer,
   Works,
   Feedbacks,
   Contact,
-  CanvasLoader, 
-  BallCanvas, 
+  CanvasLoader,  
   StarsCanvas
 };
