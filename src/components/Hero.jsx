@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { styles } from "../styles";
+import { FaTwitter, FaLinkedin, FaEnvelope, FaWhatsapp } from 'react-icons/fa';
 
 const Hero = () => {
   return (
@@ -35,6 +36,33 @@ const Hero = () => {
           </div>
         </a>
       </div>
+      <div class="socials bg-black z-50 justify-between flex flex-col fixed bottom-0 right-0">
+  <ul class="flex flex-row">
+    <li class="text-white hover:text-[#7375f8] text-2xl p-2 md:p-4 font-extrabold cursor-pointer">
+      <a href="https://twitter.com/goodnesskolapo" target="_blank" rel="noopener noreferrer">
+        <FaTwitter />
+      </a>
+    </li>
+
+    <li class="text-white hover:text-[#7375f8] text-2xl p-2 md:p-4 font-extrabold cursor-pointer">
+      <a href="https://www.linkedin.com/in/goodness-temilorun" target="_blank" rel="noopener noreferrer">
+        <FaLinkedin />
+      </a>
+    </li>
+
+    <li class="text-white hover:text-[#7375f8] text-2xl p-2 md:p-4 font-extrabold cursor-pointer">
+      <a href="mailto:goodnesskolapo@gmail.com" target="_blank" rel="noopener noreferrer">
+        <FaEnvelope />
+      </a>
+    </li>
+
+    <li class="text-white hover:text-[#7375f8] text-2xl p-2 md:p-4 font-extrabold cursor-pointer">
+      <a href="https://wa.me/2347080738071" target="_blank" rel="noopener noreferrer">
+        <FaWhatsapp />
+      </a>
+    </li>
+  </ul>
+</div>
     </section>
   );
 };
