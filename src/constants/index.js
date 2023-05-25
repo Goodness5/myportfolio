@@ -14,6 +14,7 @@ import {
   solidity,
   git,
   staking,
+  datavis,
   votingdapp,
   python,
   moviebuddy,
@@ -274,6 +275,31 @@ const projects = [
     ],
     image: staking,
     source_code_link: "https://github.com/goodness5/devxspace-org",
+  },
+  {
+    name: "Github Data Visualization",
+    description:
+      "A data visualization of all repositories of web3bridge's students.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Flask",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Threejs",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Python",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: datavis,
+    source_code_link: "https://github.com/goodness5/moviebuddy",
   },
 ];
 

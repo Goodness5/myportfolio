@@ -34,9 +34,11 @@ import devxspace from "./devxspace.png";
 import lunchpad from "./lunchpad.png"
 import termshub from './termshub.png';
 import staking from './staking.png';
+import datavis from './datavis.png'
 
 export {
   logo,
+  datavis,
   lunchpad,
   staking,
   backend,
