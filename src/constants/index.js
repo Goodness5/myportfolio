@@ -299,7 +299,7 @@ const projects = [
       },
     ],
     image: datavis,
-    source_code_link: "https://github.com/goodness5/moviebuddy",
+    source_code_link: "https://github.com/goodness5/web3bridge",
   },
 ];
 
