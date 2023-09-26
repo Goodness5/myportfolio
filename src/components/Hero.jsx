@@ -10,8 +10,8 @@ const Hero = () => {
           <div className="w-5 h-5 rounded-full bg-[#28f7ec]" />
           <div className="w-1 sm:h-80 h-40 green-pink-gradient" />
         </div>
-        <div className="m-auto items-center w-full">
-          <h1 className={`${styles.heroHeadText} text-white`}>
+        <div className="m-auto items-center w-full justify-center text-center">
+          <h1 className={`${styles.heroHeadText} text-white text-center`}>
             Hi, I'm <span className="text-[#d4bbec]">Goodness</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
