@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { styles } from "../styles";
-import { FaTwitter, FaLinkedin, FaEnvelope, FaWhatsapp } from 'react-icons/fa';
+import { FaTwitter, FaLinkedin, FaEnvelope, FaWhatsapp, FaFilePdf } from 'react-icons/fa';
 
 const Hero = () => {
   return (
@@ -20,7 +20,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
-        <a href="#about">
+        {/* <a href="#about">
           <div className="w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2">
             <motion.div
               animate={{
@@ -34,7 +34,7 @@ const Hero = () => {
               className="w-3 h-3 rounded-full bg-secondary mb-1"
             />
           </div>
-        </a>
+        </a> */}
       </div>
       <div class="socials bg-black z-50 justify-between flex flex-col fixed bottom-0 right-0">
   <ul class="flex flex-row">
@@ -59,6 +59,11 @@ const Hero = () => {
     <li class="text-white hover:text-[#7375f8] text-2xl p-2 md:p-4 font-extrabold cursor-pointer">
       <a href="https://wa.me/2347080738071" target="_blank" rel="noopener noreferrer">
         <FaWhatsapp />
+      </a>
+    </li>
+    <li class="text-white hover:text-[#7375f8] text-2xl p-2 md:p-4 font-extrabold cursor-pointer">
+      <a href="https://wa.me/2347080738071" target="_blank" rel="noopener noreferrer">
+        <FaFilePdf />
       </a>
     </li>
   </ul>
