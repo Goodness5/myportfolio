@@ -10,7 +10,7 @@ const Hero = () => {
           <div className="w-5 h-5 rounded-full bg-[#28f7ec]" />
           <div className="w-1 sm:h-80 h-40 green-pink-gradient" />
         </div>
-        <div>
+        <div className="m-auto items-center w-full">
           <h1 className={`${styles.heroHeadText} text-white`}>
             Hi, I'm <span className="text-[#d4bbec]">Goodness</span>
           </h1>
@@ -62,7 +62,7 @@ const Hero = () => {
       </a>
     </li>
     <li class="text-white hover:text-[#7375f8] text-2xl p-2 md:p-4 font-extrabold cursor-pointer">
-      <a href="https://wa.me/2347080738071" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Goodness5/myportfolio/blob/master/README.md" target="_blank" rel="noopener noreferrer">
         <FaFilePdf />
       </a>
     </li>

@@ -8,9 +8,9 @@ goodnesskolapo@gmail.com
 I am a highly experienced full-stack developer with a strong background in both web and blockchain technologies. On the web development front, I have expertise in both front-end and back-end development, and have worked with a variety of programming languages and frameworks. In the realm of blockchain development, I have deep knowledge of EVM-based smart contracts, consensus algorithms, and decentralized applications. I am passionate about utilizing technology to solve complex problems and create innovative solutions, and I am committed to staying up-to-date with the latest advancements in both web and blockchain development.
 
 ## Skills
-- **Programming Languages**: JavaScript, Python, Solidity, TpeScript
+- **Programming Languages**: JavaScript, Python, Solidity, TypeScript
 - **Front-end**: HTML, CSS, React.js, Next.js
-- **Back-end**: Node.js, Python, Flask, Django
+- **Back-end**: Node.js, Python (Django, Flask)
 - **Blockchain**: Smart Contracts, Ethereum, EVM, Starknet
 - **Database**: SQL, MongoDB, Postgres
 - **Tools & Platforms**: Git, Docker, AWS, Heroku
@@ -32,26 +32,23 @@ I am a highly experienced full-stack developer with a strong background in both 
 
 ### Full Stack Web Developer (Freelance)
 *Mar 2022 - Dec 2022, Remote*
-- Developed and maintained web applications using Next.js, Python, and Flask technologies
+- Developed and maintained web applications using Next.js, Python (Flask, Django), and JavaScript
 - Developed user-friendly web applications using HTML, CSS, and JavaScript frameworks (React, Next, and Node)
-- Implemented back-end solutions using Python, Node.js, and SQL
+- Implemented back-end solutions using Python, Node.js, Postgres and SQL
 
 ## Education
 
 - Blockchain Development Student - Web3Bridge
-- Full Stack Development - Zu
+- Full Stack Development - Zuri/ freelancer
 - Frontend Development - Netmetrics Technology
+- Backend Development - Freelancer, Kodecamp
 
 *Jan 2023 - Apr 2023*
-
 *May 2022 - Aug 2022*
-
 *Dec 2020 - Jul 2020*
 
 ## Certifications
 - Certified Ethereum Developer (CED)
-
-
 
 ## Languages
 - English (Fluent)
@@ -62,3 +59,5 @@ I am a highly experienced full-stack developer with a strong background in both 
 - Cryptocurrency and blockchain technology
 - Web app development
 - Smart contract
+
+[Download Resume as PDF](resume_link.pdf)
