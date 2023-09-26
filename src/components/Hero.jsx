@@ -15,7 +15,7 @@ const Hero = () => {
             Hi, I'm <span className="text-[#d4bbec]">Goodness</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop websites and smart contracts
+            I'm a software developer
           </p>
         </div>
       </div>
@@ -62,7 +62,7 @@ const Hero = () => {
       </a>
     </li>
     <li class="text-white hover:text-[#7375f8] text-2xl p-2 md:p-4 font-extrabold cursor-pointer">
-      <a href="https://github.com/Goodness5/myportfolio/blob/master/README.md" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Goodness5/myportfolio#readme" target="_blank" rel="noopener noreferrer">
         <FaFilePdf />
       </a>
     </li>
