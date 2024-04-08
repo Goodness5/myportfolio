@@ -156,5 +156,3 @@ link: <https://github.com/icemedia001/Ultimum-Protocol>
 - Machine learning
 - Cryptocurrency and blockchain technology
 - Software development
-
-[Download Resume as PDF](https://drive.google.com/file/d/1noNA2UBWfm4YwO_UbbK7NOqJc0hH5HWe/view?usp=sharing)
