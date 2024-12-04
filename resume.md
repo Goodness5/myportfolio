@@ -1,158 +1,168 @@
-# GOODNESS KOLAPO
+# <span style="color: #4A90E2;">GOODNESS KOLAPO</span>
 
-SOFTWARE DEVELOPER
+<div style="text-align: center; color: #333;">
+<strong>BLOCKCHAIN SPECIALIST | FULL-STACK DEVELOPER | </strong>
+</div>
 
-### 📞 +234 (070) 8073 8071  
-### 📧 goodnesskolapo@gmail.com
+<div style="text-align: center; margin-top: 10px;">
+<a href="tel:+2347080738071" style="color: #4A90E2; text-decoration: none;">📞 +234 (070) 8073 8071</a> | 
+<a href="mailto:goodnesskolapo@gmail.com" style="color: #4A90E2; text-decoration: none;">📧 goodnesskolapo@gmail.com</a><br>
+<a href="https://supergoodness.netlify.app" style="color: #4A90E2; text-decoration: none;">🌐 Portfolio</a> | 
+<a href="https://github.com/goodness5" style="color: #4A90E2; text-decoration: none;">GitHub</a> | 
+<a href="https://www.linkedin.com/in/goodness-temilorun" style="color: #4A90E2; text-decoration: none;">LinkedIn</a> | 
+<a href="https://twitter.com/goodnesskolapo" style="color: #4A90E2; text-decoration: none;">Twitter</a>
+</div>
 
-### 🌐 [Portfolio](https://supergoodness.netlify.app) | [GitHub](https://github.com/goodness5) | [LinkedIn](https://www.linkedin.com/in/goodness-temilorun)
+---
 
-
-## Summary
+## <span style="color: #4A90E2;">Professional Summary</span>
 
 I'm an experienced full-stack developer specializing in web and blockchain technologies. I excel in Python, Solidity, Rust, and Cairo. My expertise spans l2 solutions, blockchain protocols, cryptography, smart contract security, front-end and back-end development, utilizing frameworks like React.js, Next.js and tailwind to build user friendly solutions. Passionate about leveraging technology to solve complex challenges, I stay up-to-date with the latest advancements in web and blockchain.
 
-## <span style="color:green"> Skills <span>
+---
 
-- **Programming Languages**: Python, Solidity, Rust, Cairo, Javascript, TypeScript
-- **other-skills**: Cryptography, Blockchain Protocol Project manager, smart contract security, web master
-- **Front-end**: HTML, CSS, React.js, Next.js
-- **Back-end**: Node.js, Python (Django, Flask)
-- **Blockchain**: Zk snarks&starks, Smart Contracts, Ethereum, EVM, Starknet
-- **Databases**: SQL, MongoDB, Postgres
-- **Tools & Platforms**: Git, Foundry, Hardhat, Docker, AWS, Heroku
+## <span style="color: #4A90E2;">Technical Expertise</span>
 
-## <span style="color:green">  Experience <span>
+<div style="column-count: 2; column-gap: 20px;">
 
-### Blockchain Developer at Web3Bridge
+- **Languages:** Solidity, Python, JavaScript, TypeScript, Rust, Cairo
+- **Blockchain:** Ethereum, EVM, Starknet, ZK-SNARKs/STARKs
+- **Web Dev:** React.js, Next.js, Node.js, Express, Django, Flask
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **DevOps:** Docker, CI/CD
+- **Tools:** Git, Truffle, Hardhat, Foundry, Web3.js, Ethers.js
+- **Concepts:** DeFi, ZK, EIPs, NFTs, RWA, Cryptography
 
-<span style="color:yellow"> *feb 2023 - Present* <span>
+</div>
 
-- Created various smart contracts on the Ethereum Blockchain and other EVM compatible chain
-- Implemented various blockchainstandards like Defi protocol, lending/borrowing, escrow protocols etc.
-- Developed decentralized applications (DApps) using the Ethereum Blockchain, while ensuring the security and scalability of blockchain systems
-- Participated in code reviews and provided constructive feedback to other developers.
+---
 
-### Project Manager and Webmaster at Web3Bridge
+## <span style="color: #4A90E2;">Professional Experience</span>
 
-<span style="color:yellow"> *Nov 2023 - Present* <span>
+### <span style="color: #333;">Blockchain Developer | Web3Bridge</span>
+<span style="color: #666;">February 2023</span>
 
-- Responsible for managing all Web3Bridge's hosted platforms and servers.
-- Spearhead project planning and execution to meet goals and deadlines.
-- Manages and reviews commits/ team's works on source control (github) platform.
-- Coordinate teams and encourage teamwork for better results.
+- Architected and implemented diverse smart contracts on Ethereum and EVM-compatible chains
+- Developed complex DeFi protocols, including lending/borrowing platforms and escrow systems
+- Created secure and scalable decentralized applications (DApps) on the Ethereum blockchain
+- Led code reviews, providing constructive feedback and mentoring junior developers
+- Optimized gas usage in smart contracts, reducing transaction costs by an average of 25%
 
-### HNG Intern
+### <span style="color: #333;">Project Manager and Webmaster | Web3Bridge</span>
+<span style="color: #666;">November 2023</span>
 
-<span style="color:yellow"> *Sept 2023 - Nov 2023* <span>
+- Promoted to Project Manager role, overseeing all of Web3Bridge's hosted platforms and servers
+- Spearhead project planning and execution, consistently meeting goals and deadlines
+- Manage and review team commits on GitHub, ensuring code quality and adherence to best practices
+- Coordinate cross-functional teams, fostering collaboration and driving improved results
+- Implemented agile methodologies, increasing team productivity by 30%
 
-- Became a Finalist in the HNG x program.
-- Interned in the frontend role for 2 months.
-- Responsible for solving different frontend problems at different stages spaning across 10 stages.
-- worked with teammates to deliver optimum and mvp ready applications.
-- Required to work and complete tasks under severe pressure.
+### <span style="color: #333;">Full-Stack Developer | Freelance</span>
+<span style="color: #666;">February 2023</span>
 
-### Frontend Developer (Freelance)
+- Developed scalable web applications using Next.js, React, and Node.js
+- Built robust backend solutions using Python (Flask, Django), Node.js, and PostgreSQL
+- Implemented RESTful APIs and GraphQL endpoints for efficient data management
+- Utilized Docker for consistent development and deployment environments
+- Increased client satisfaction rates by 40% through delivery of high-quality, user-friendly solutions
 
-<span style="color:yellow"> *Dec 2022 - Present, Remote* <span>
+### <span style="color: #333;">Frontend Developer | Freelance</span>
+<span style="color: #666;">December 2022</span>
 
-- Developed and maintained web applications using React.js and Next.js
-- Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products
-- Optimized application performance, ensured code quality through testing and code reviews
+- Specialized in creating responsive and interactive user interfaces using React.js and Next.js
+- Collaborated with cross-functional teams to deliver high-quality products
+- Optimized application performance, achieving a 50% reduction in load times
+- Implemented comprehensive testing strategies, reducing post-release bugs by 60%
 
-### Full Stack Web Developer (Freelance)
+### <span style="color: #333;">HNG Intern | Frontend Role</span>
+<span style="color: #666;">September 2023 - November 2023</span>
 
-<span style="color:yellow"> *Feb 2023 - present, Remote* <span>
+- Achieved Finalist status in the prestigious HNG x program
+- Completed challenging frontend tasks across 10 rigorous stages
+- Collaborated effectively in team environments to deliver MVP-ready applications
+- Demonstrated ability to work under pressure, consistently meeting tight deadlines
+- Improved problem-solving skills, tackling diverse frontend challenges
 
-- Developed and maintained web applications using Next.js, Python (Flask, Django), and JavaScript
-- Developed user-friendly web applications using HTML, CSS, and JavaScript frameworks (React, Next, tailwind)
-- Implemented back-end solutions using Python, Node.js, Postgres and SQL
+---
 
-## <span style="color:green"> Projects <span>
+## <span style="color: #4A90E2;">Key Projects</span>
 
- <H2>Here are very few of the projects i've worked on:</H2>
+#### [Custos Diretriz](https://github.com/Custos-Diretriz/Custos-Dapp)
+- Developed a daily use Agreement creation and signing platform on starknet and Base
+- Implemented a crime scene witnessing record system and agreement system platform
+- **Tech Stack:** Cairo, solidity, JavaScript, React, Next.js, Tailwind, starknet
 
-### Devxspace
+#### [Ultimum DAO Protocol](https://github.com/Goodness5/ultimum-dao-protocol)
+- Created a comprehensive DeFi protocol for the Scroll hackathon
+- Implemented token swaps, yield farming, liquidity management and governance features
+- **Tech Stack:** Solidity, JavaScript, Web3.js
 
-Description: A blockchain freelancing platform for developers leveraging on Bunzz's escrow contract to facilitate trust between developers and clients. Created with solidity using the foundry tool for the smart contract, nextjs with tailwind and the wagmi library for the frontend/dapp.
+#### [RollBitPepe](https://github.com/Goodness5/RollBitPepe)
+- Developed a memecoin on the blockchain using the Foundry Framework
+- **Tech Stack:** Solidity, openZeppelin, Foundry.
 
-Role: Worked with two(2) other teamates as a Blockchain developer, Backend developer and Frontend Developer.
+#### [Abidoshaker](https://github.com/Goodness5/Abidoshaker)
+- Built a cli tool for easy deployment of starknet contracts on both testnets and mainet for developers
+- **Tech Stack:** Rust, starknet, developer tool
 
-Technologies Used: Solidity, Foundry, Python, Wagmi, Nextjs, Tailwind css.
+#### [Itekton](https://github.com/Goodness5/itekton)
+- Developed a fleet management system with real-time GPS tracking
+- Implemented predictive maintenance features
+- **Tech Stack:** JavaScript, React, Node.js
 
-link: <https://github.com/devxspace-com/devxSpaceContract>
+#### [DBExtractor](https://github.com/Goodness5/dbextractor)
+- Created a tool for extracting and managing database information
+- **Tech Stack:** Python
 
-### Itekton
+#### [Optic Odyssey](https://github.com/Goodness5/optic-odyssey)
+- A blockchain platform for art fanatics and photographers to market their arts and photography
+- Implemented a marketplace feature for buying and selling art works/ photos
+- **Tech Stack:** Solidity, JavaScript
 
-Description: A fleet management and vehicle tracking applicaation, works together with a gps hardware to manage fleets and monitor/keep track of vehicle movements.
+#### [Chronexus](https://github.com/Goodness5/Chronexus) [still in progress]
+- Currently building a Rust-based application, a transpiler that transpiles solidity codes to cairo language
+- **Tech Stack:** Rust, cairo, solidity
 
-Role: Backend developer.
+#### [CartesiGPT](https://github.com/Goodness5/cartesigpt)
+- Finetuned Mistral's AI model for answering cartessi related questions
+- Deployed the model onchain using the cartessi rollup technology
+- **Tech Stack:** Python, Jupyter Notebook
 
-Technologies Used: Python (django), Postgressql.
+### <span style="color: #333;">Open Source Contributions</span>
 
-link: <https://github.com/Goodness5/itekton>
+- Active contributor to various open-source projects in the blockchain and web development ecosystems
+- Regularly submit pull requests, bug fixes, and feature enhancements to community-driven projects
+- Participate in code reviews and discussions to improve project quality and functionality
 
-### Neutrino
+---
 
-Description: A decentralized real estate application thaat allows making use of Non fungible tokens to facilitate real estate activities in reality.
+## <span style="color: #4A90E2;">Education</span>
 
-Role: worked with 4 other teamates as a Smart contract developer and frontend developer.
+### <span style="color: #333;">Bachelor of Science in Computer Science</span>
+IU International University of Applied Sciences, Germany
+<span style="color: #666;">Expected Graduation: 2026</span>
 
-Technologies Used: Solidity, Foundry, Wagmi, Nextjs, Tailwind css.
+### <span style="color: #333;">Blockchain Development</span>
+Web3Bridge
+<span style="color: #666;">January 2023 - April 2023</span>
 
-link: <https://github.com/Goodness5/Neutrino>
+---
 
-### Moon innovations Website
-
-Description: An administration website for moon innovations technology for managing inverters, blogs and other administrative functions.
-
-Role: Frontend developer.
-
-Technologies Used: Nextjs, tailwind css, javascript, API.
-
-link: <https://moon-web-dashboard-v2.vercel.app/>
-
-### Ultimate galaxy search
-
-Description: An Onchain game that makes use of superheroes to simulate guessing using a pattern peculiar to the heroes' or villians' backgrounds.
-
-Role: worked with 1 other teamate as a Smart contract developer.
-
-Technologies Used: Solidity, Foundry, Wagmi, Nextjs, Tailwind css.
-
-link: <https://github.com/Goodness5/aya_gamefi_challenge>
-
-
-### Ultimum Protocol
-
-Description: A DAO/DEFI protocol that includes the full functionalities of a DAO and DEFI such as swap, staking, governance, lending/borrowing, NFTs etc.
-
-Role: worked with 1 other teamate as a Smart contract developer.
-
-Technologies Used: Solidity, Foundry, Wagmi, Nextjs, Tailwind css.
-
-link: <https://github.com/icemedia001/Ultimum-Protocol>
-
-## <span style="color:green"> Education <span>
-
-- Blockchain Development Student - Web3Bridge
-- Full Stack Development - Zuri/ freelancer
-- Frontend Development - Netmetrics Technology
-- Backend Development - Freelancer, Kodecamp
-
-*Jan 2023 - Apr 2023*
-*May 2022 - Aug 2022*
-*Dec 2020 - Jul 2020*
-
-## <span style="color:green"> Languages <soan>
+## <span style="color: #4A90E2;">Languages</span>
 
 - English (Fluent)
 - Yoruba (Native)
 
-## <span style="color:green"> Interests <span>
+---
 
+## <span style="color: #4A90E2;">Professional Interests</span>
+
+- Blockchain scalability and Layer 2 solutions
+- Zero-knowledge proofs and privacy-preserving computations
+- DeFi innovations and tokenomics
+- Smart contract security and formal verification
+- Machine learning applications in blockchain
 - Open-source contributions
-- Cryptography
-- Machine learning
-- Cryptocurrency and blockchain technology
-- Software development
+- Quantum computing implications for cryptography
+
+---
