@@ -62,7 +62,7 @@ const Hero = () => {
       </a>
     </li>
     <li class="text-white hover:text-[#7375f8] text-2xl p-2 md:p-4 font-extrabold cursor-pointer">
-      <a href="https://github.com/Goodness5/myportfolio#readme" target="_blank" rel="noopener noreferrer">
+      <a href="https://drive.google.com/file/d/1aEDJ3EFdjFm3NKngCXYunyygur6H4V-7/view?usp=sharing target="_blank" rel="noopener noreferrer">
         <FaFilePdf />
       </a>
     </li>
